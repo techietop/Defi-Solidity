@@ -3,9 +3,9 @@
 # DeFi open source tools
 
 [![Downloads](https://pepy.tech/badge/defi)](https://pepy.tech/project/defi)
-[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gauss314/defi/blob/main/LICENSE.txt)
-[![Twitter](https://img.shields.io/twitter/follow/JohnGalt_is_www?color=blue&style=flat-square)](https://twitter.com/JohnGalt_is_www)
-[![Update](https://img.shields.io/github/last-commit/gauss314/defi)](https://github.com/gauss314/defi)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/techietop/defi/blob/main/LICENSE.txt)
+[![Twitter](https://img.shields.io/twitter/follow/Danney0310?color=blue&style=flat-square)](https://twitter.com/Danney0310)
+[![Update](https://img.shields.io/github/last-commit/techietop/defi)](https://github.com/techietop/defi)
 [![Update](https://img.shields.io/pypi/pyversions/defi?color=green&label=python)](https://pypi.org/project/defi/)
 
 <br>
@@ -425,4 +425,4 @@ dft.value_f, iloss = dft.iloss_simulate('cake','bnb', value=1000, base_pct_chg=5
 
 ### About
 
-- twitter user  [@JohnGalt_is_www](https://twitter.com/JohnGalt_is_www)
+- twitter user  [@Danney0310](https://x.com/Danney0310)
